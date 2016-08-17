@@ -1,0 +1,27 @@
+{
+  "name": "bower-file",
+  "description": "Arquivo de configuração dos pacotes",
+  "main": "Init.html",
+  "keywords": [
+    "bower"
+  ],
+  "authors": [
+    "Anderson Gimenez"
+  ],
+  "license": "MIT",
+  "homepage": "www.andersongimenez.com.br",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.15.0"
+  }
+}
